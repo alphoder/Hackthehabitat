@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+:root {
+  --background: #07090d;
+  --foreground: #e4e4e7;
+  --panel: #0d1117;
+  --panel-border: #1c2431;
+  --alert: #ef4444;
+  --warn: #f59e0b;
+  --ok: #10b981;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-panel: var(--panel);
+  --color-panel-border: var(--panel-border);
+  --font-sans: var(--font-plex-sans);
+  --font-mono: var(--font-plex-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-plex-sans), system-ui, sans-serif;
+}
+
+/* Mission-control readouts: numbers and codes always monospaced */
+.readout {
+  font-family: var(--font-plex-mono), ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+@keyframes pulse-alert {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+.pulse-alert { animation: pulse-alert 1.8s ease-in-out infinite; }
+
+/* Generic per-element fade-ins were removed deliberately: they animated 18 elements to
+   communicate nothing, and any motion that hides content is a reliability risk on a page
+   people need to read. The one animation kept below earns its place. */
+
+/* Hairline that draws itself as the flow scrolls past, tying the four steps together. */
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    .flow-rail {
+      animation: rail-grow linear both;
+      animation-timeline: view();
+      animation-range: entry 20% cover 60%;
+      transform-origin: top;
+    }
+  }
+}
+
+@keyframes rail-grow {
+  from { transform: scaleY(0); }
+  to   { transform: scaleY(1); }
+}

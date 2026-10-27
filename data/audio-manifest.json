@@ -1,0 +1,152 @@
+[
+  {
+    "file": "public/media/audio/1-116765-A-41.wav",
+    "truth": "chainsaw",
+    "esc50_category": "chainsaw"
+  },
+  {
+    "file": "public/media/audio/1-19898-A-41.wav",
+    "truth": "chainsaw",
+    "esc50_category": "chainsaw"
+  },
+  {
+    "file": "public/media/audio/1-19898-B-41.wav",
+    "truth": "chainsaw",
+    "esc50_category": "chainsaw"
+  },
+  {
+    "file": "public/media/audio/1-19898-C-41.wav",
+    "truth": "chainsaw",
+    "esc50_category": "chainsaw"
+  },
+  {
+    "file": "public/media/audio/1-47250-A-41.wav",
+    "truth": "chainsaw",
+    "esc50_category": "chainsaw"
+  },
+  {
+    "file": "public/media/audio/1-47250-B-41.wav",
+    "truth": "chainsaw",
+    "esc50_category": "chainsaw"
+  },
+  {
+    "file": "public/media/audio/1-18810-A-49.wav",
+    "truth": "handsaw",
+    "esc50_category": "hand_saw"
+  },
+  {
+    "file": "public/media/audio/1-23706-A-49.wav",
+    "truth": "handsaw",
+    "esc50_category": "hand_saw"
+  },
+  {
+    "file": "public/media/audio/1-46353-A-49.wav",
+    "truth": "handsaw",
+    "esc50_category": "hand_saw"
+  },
+  {
+    "file": "public/media/audio/1-18527-A-44.wav",
+    "truth": "vehicle",
+    "esc50_category": "engine"
+  },
+  {
+    "file": "public/media/audio/1-18527-B-44.wav",
+    "truth": "vehicle",
+    "esc50_category": "engine"
+  },
+  {
+    "file": "public/media/audio/1-22882-A-44.wav",
+    "truth": "vehicle",
+    "esc50_category": "engine"
+  },
+  {
+    "file": "public/media/audio/1-50454-A-44.wav",
+    "truth": "vehicle",
+    "esc50_category": "engine"
+  },
+  {
+    "file": "public/media/audio/1-115545-A-48.wav",
+    "truth": "gunshot",
+    "esc50_category": "fireworks"
+  },
+  {
+    "file": "public/media/audio/1-115545-B-48.wav",
+    "truth": "gunshot",
+    "esc50_category": "fireworks"
+  },
+  {
+    "file": "public/media/audio/1-115545-C-48.wav",
+    "truth": "gunshot",
+    "esc50_category": "fireworks"
+  },
+  {
+    "file": "public/media/audio/1-115546-A-48.wav",
+    "truth": "gunshot",
+    "esc50_category": "fireworks"
+  },
+  {
+    "file": "public/media/audio/1-100038-A-14.wav",
+    "truth": "animal",
+    "esc50_category": "chirping_birds"
+  },
+  {
+    "file": "public/media/audio/1-34495-A-14.wav",
+    "truth": "animal",
+    "esc50_category": "chirping_birds"
+  },
+  {
+    "file": "public/media/audio/1-34497-A-14.wav",
+    "truth": "animal",
+    "esc50_category": "chirping_birds"
+  },
+  {
+    "file": "public/media/audio/1-17585-A-7.wav",
+    "truth": "animal",
+    "esc50_category": "insects"
+  },
+  {
+    "file": "public/media/audio/1-19501-A-7.wav",
+    "truth": "animal",
+    "esc50_category": "insects"
+  },
+  {
+    "file": "public/media/audio/1-17367-A-10.wav",
+    "truth": "rain",
+    "esc50_category": "rain"
+  },
+  {
+    "file": "public/media/audio/1-21189-A-10.wav",
+    "truth": "rain",
+    "esc50_category": "rain"
+  },
+  {
+    "file": "public/media/audio/1-26222-A-10.wav",
+    "truth": "rain",
+    "esc50_category": "rain"
+  },
+  {
+    "file": "public/media/audio/1-137296-A-16.wav",
+    "truth": "wind",
+    "esc50_category": "wind"
+  },
+  {
+    "file": "public/media/audio/1-29532-A-16.wav",
+    "truth": "wind",
+    "esc50_category": "wind"
+  },
+  {
+    "file": "public/media/audio/1-17150-A-12.wav",
+    "truth": "ambient",
+    "esc50_category": "crackling_fire"
+  },
+  {
+    "file": "public/media/audio/1-17565-A-12.wav",
+    "truth": "ambient",
+    "esc50_category": "crackling_fire"
+  },
+  {
+    "file": "public/media/audio/1-155858-A-25.wav",
+    "truth": "human_voice",
+    "esc50_category": "footsteps"
+  }
+]

@@ -1,0 +1,4 @@
+data/ena24.json
+data/satellite/
+node_modules
+.next

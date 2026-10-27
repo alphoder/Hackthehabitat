@@ -1,0 +1,253 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "measured_at": "2026-08-15T11:50:38.908Z",
+  "exact": 22,
+  "total": 30,
+  "threatCaught": 17,
+  "threatTotal": 18,
+  "falseAlarms": 2,
+  "quietTotal": 12,
+  "localised": 23,
+  "results": [
+    {
+      "file": "data/audio/1-116765-A-41.wav",
+      "truth": "chainsaw",
+      "predicted": "chainsaw",
+      "confidence": 1,
+      "timestamp_s": 0,
+      "note": "Chainsaw engine sound with characteristic pitch modulation."
+    },
+    {
+      "file": "data/audio/1-19898-A-41.wav",
+      "truth": "chainsaw",
+      "predicted": "chainsaw",
+      "confidence": 0.95,
+      "timestamp_s": 0,
+      "note": "A chainsaw engine is clearly audible with characteristic pitch modulation."
+    },
+    {
+      "file": "data/audio/1-19898-B-41.wav",
+      "truth": "chainsaw",
+      "predicted": "chainsaw",
+      "confidence": 1,
+      "timestamp_s": 0,
+      "note": "The sound of a chainsaw motor is clearly audible."
+    },
+    {
+      "file": "data/audio/1-19898-C-41.wav",
+      "truth": "chainsaw",
+      "predicted": "chainsaw",
+      "confidence": 1,
+      "timestamp_s": 0,
+      "note": "The sound of a chainsaw engine is clearly audible."
+    },
+    {
+      "file": "data/audio/1-47250-A-41.wav",
+      "truth": "chainsaw",
+      "predicted": "chainsaw",
+      "confidence": 1,
+      "timestamp_s": 0,
+      "note": "Chainsaw motor sound with characteristic pitch modulation."
+    },
+    {
+      "file": "data/audio/1-47250-B-41.wav",
+      "truth": "chainsaw",
+      "predicted": "vehicle",
+      "confidence": 0.95,
+      "timestamp_s": 0,
+      "note": "A steady engine sound is audible throughout the recording."
+    },
+    {
+      "file": "data/audio/1-18810-A-49.wav",
+      "truth": "handsaw",
+      "predicted": "handsaw",
+      "confidence": 1,
+      "timestamp_s": 0,
+      "note": "Rhythmic rasping sound of a manual saw."
+    },
+    {
+      "file": "data/audio/1-23706-A-49.wav",
+      "truth": "handsaw",
+      "predicted": "handsaw",
+      "confidence": 0.95,
+      "timestamp_s": 0,
+      "note": "Rhythmic manual sawing sound is clearly audible throughout the clip."
+    },
+    {
+      "file": "data/audio/1-46353-A-49.wav",
+      "truth": "handsaw",
+      "predicted": "chainsaw",
+      "confidence": 1,
+      "timestamp_s": 0,
+      "note": "The sound of a chainsaw cutting wood is clearly audible."
+    },
+    {
+      "file": "data/audio/1-18527-A-44.wav",
+      "truth": "vehicle",
+      "predicted": "vehicle",
+      "confidence": 0.95,
+      "timestamp_s": 0,
+      "note": "Steady engine pitch consistent with a vehicle."
+    },
+    {
+      "file": "data/audio/1-18527-B-44.wav",
+      "truth": "vehicle",
+      "predicted": "vehicle",
+      "confidence": 0.95,
+      "timestamp_s": 0,
+      "note": "Engine at a steady pitch consistent with a vehicle."
+    },
+    {
+      "file": "data/audio/1-22882-A-44.wav",
+      "truth": "vehicle",
+      "predicted": "vehicle",
+      "confidence": 0.95,
+      "timestamp_s": 0,
+      "note": "Steady engine pitch indicates a vehicle."
+    },
+    {
+      "file": "data/audio/1-50454-A-44.wav",
+      "truth": "vehicle",
+      "predicted": "vehicle",
+      "confidence": 0.9,
+      "timestamp_s": 0,
+      "note": "Steady engine pitch consistent with a vehicle."
+    },
+    {
+      "file": "data/audio/1-115545-A-48.wav",
+      "truth": "gunshot",
+      "predicted": "ambient",
+      "confidence": 1,
+      "timestamp_s": null,
+      "note": "No significant sounds detected in the audio clip."
+    },
+    {
+      "file": "data/audio/1-115545-B-48.wav",
+      "truth": "gunshot",
+      "predicted": "gunshot",
+      "confidence": 1,
+      "timestamp_s": 0,
+      "note": "A single, sharp, impulsive firearm discharge is clearly audible."
+    },
+    {
+      "file": "data/audio/1-115545-C-48.wav",
+      "truth": "gunshot",
+      "predicted": "gunshot",
+      "confidence": 1,
+      "timestamp_s": 0,
+      "note": "A single sharp impulsive firearm discharge is clearly audible."
+    },
+    {
+      "file": "data/audio/1-115546-A-48.wav",
+      "truth": "gunshot",
+      "predicted": "gunshot",
+      "confidence": 1,
+      "timestamp_s": 0,
+      "note": "A single sharp impulsive crack consistent with a firearm discharge."
+    },
+    {
+      "file": "data/audio/1-100038-A-14.wav",
+      "truth": "animal",
+      "predicted": "animal",
+      "confidence": 1,
+      "timestamp_s": 0,
+      "note": "Bird chirping is the only sound present."
+    },
+    {
+      "file": "data/audio/1-34495-A-14.wav",
+      "truth": "animal",
+      "predicted": "animal",
+      "confidence": 1,
+      "timestamp_s": null,
+      "note": "Birdsong is the only sound present."
+    },
+    {
+      "file": "data/audio/1-34497-A-14.wav",
+      "truth": "animal",
+      "predicted": "animal",
+      "confidence": 1,
+      "timestamp_s": null,
+      "note": "Birdsong is the only sound present."
+    },
+    {
+      "file": "data/audio/1-17585-A-7.wav",
+      "truth": "animal",
+      "predicted": "animal",
+      "confidence": 1,
+      "timestamp_s": null,
+      "note": "Bird chirping sounds are audible throughout the recording."
+    },
+    {
+      "file": "data/audio/1-19501-A-7.wav",
+      "truth": "animal",
+      "predicted": "animal",
+      "confidence": 1,
+      "timestamp_s": 0,
+      "note": "A bird vocalization is audible."
+    },
+    {
+      "file": "data/audio/1-17367-A-10.wav",
+      "truth": "rain",
+      "predicted": "chainsaw",
+      "confidence": 0.95,
+      "timestamp_s": 0,
+      "note": "A chainsaw motor is clearly audible throughout the clip."
+    },
+    {
+      "file": "data/audio/1-21189-A-10.wav",
+      "truth": "rain",
+      "predicted": "rain",
+      "confidence": 1,
+      "timestamp_s": null,
+      "note": "Continuous broadband hiss consistent with rain."
+    },
+    {
+      "file": "data/audio/1-26222-A-10.wav",
+      "truth": "rain",
+      "predicted": "rain",
+      "confidence": 1,
+      "timestamp_s": null,
+      "note": "Continuous broadband hiss consistent with rain."
+    },
+    {
+      "file": "data/audio/1-137296-A-16.wav",
+      "truth": "wind",
+      "predicted": "ambient",
+      "confidence": 1,
+      "timestamp_s": null,
+      "note": "No significant sounds detected in the audio clip."
+    },
+    {
+      "file": "data/audio/1-29532-A-16.wav",
+      "truth": "wind",
+      "predicted": "vehicle",
+      "confidence": 0.9,
+      "timestamp_s": 0,
+      "note": "Steady engine pitch consistent with a vehicle."
+    },
+    {
+      "file": "data/audio/1-17150-A-12.wav",
+      "truth": "ambient",
+      "predicted": "animal",
+      "confidence": 0.9,
+      "timestamp_s": 0,
+      "note": "Bird chirping sounds are audible."
+    },
+    {
+      "file": "data/audio/1-17565-A-12.wav",
+      "truth": "ambient",
+      "predicted": "animal",
+      "confidence": 0.9,
+      "timestamp_s": 0.5,
+      "note": "Rhythmic bird vocalization present throughout the recording."
+    },
+    {
+      "file": "data/audio/1-155858-A-25.wav",
+      "truth": "human_voice",
+      "predicted": "human_voice",
+      "confidence": 0.9,
+      "timestamp_s": 0,
+      "note": "A person is walking on gravel."
+    }
+  ]
+}

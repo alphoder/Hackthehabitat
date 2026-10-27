@@ -1,0 +1,662 @@
+[
+  {
+    "file": "public/media/images/2674.jpg",
+    "truth": "Vehicle",
+    "source_id": "2674"
+  },
+  {
+    "file": "public/media/images/2686.jpg",
+    "truth": "Vehicle",
+    "source_id": "2686"
+  },
+  {
+    "file": "public/media/images/2725.jpg",
+    "truth": "Vehicle",
+    "source_id": "2725"
+  },
+  {
+    "file": "public/media/images/2760.jpg",
+    "truth": "Vehicle",
+    "source_id": "2760"
+  },
+  {
+    "file": "public/media/images/2768.jpg",
+    "truth": "Vehicle",
+    "source_id": "2768"
+  },
+  {
+    "file": "public/media/images/2786.jpg",
+    "truth": "Vehicle",
+    "source_id": "2786"
+  },
+  {
+    "file": "public/media/images/2795.jpg",
+    "truth": "Vehicle",
+    "source_id": "2795"
+  },
+  {
+    "file": "public/media/images/2804.jpg",
+    "truth": "Vehicle",
+    "source_id": "2804"
+  },
+  {
+    "file": "public/media/images/2817.jpg",
+    "truth": "Vehicle",
+    "source_id": "2817"
+  },
+  {
+    "file": "public/media/images/2832.jpg",
+    "truth": "Vehicle",
+    "source_id": "2832"
+  },
+  {
+    "file": "public/media/images/2843.jpg",
+    "truth": "Vehicle",
+    "source_id": "2843"
+  },
+  {
+    "file": "public/media/images/2873.jpg",
+    "truth": "Vehicle",
+    "source_id": "2873"
+  },
+  {
+    "file": "public/media/images/2894.jpg",
+    "truth": "Vehicle",
+    "source_id": "2894"
+  },
+  {
+    "file": "public/media/images/2916.jpg",
+    "truth": "Vehicle",
+    "source_id": "2916"
+  },
+  {
+    "file": "public/media/images/2924.jpg",
+    "truth": "Vehicle",
+    "source_id": "2924"
+  },
+  {
+    "file": "public/media/images/2937.jpg",
+    "truth": "Vehicle",
+    "source_id": "2937"
+  },
+  {
+    "file": "public/media/images/8784.jpg",
+    "truth": "American Black Bear",
+    "source_id": "8784"
+  },
+  {
+    "file": "public/media/images/8847.jpg",
+    "truth": "American Black Bear",
+    "source_id": "8847"
+  },
+  {
+    "file": "public/media/images/8910.jpg",
+    "truth": "American Black Bear",
+    "source_id": "8910"
+  },
+  {
+    "file": "public/media/images/8973.jpg",
+    "truth": "American Black Bear",
+    "source_id": "8973"
+  },
+  {
+    "file": "public/media/images/9036.jpg",
+    "truth": "American Black Bear",
+    "source_id": "9036"
+  },
+  {
+    "file": "public/media/images/9099.jpg",
+    "truth": "American Black Bear",
+    "source_id": "9099"
+  },
+  {
+    "file": "public/media/images/9162.jpg",
+    "truth": "American Black Bear",
+    "source_id": "9162"
+  },
+  {
+    "file": "public/media/images/9225.jpg",
+    "truth": "American Black Bear",
+    "source_id": "9225"
+  },
+  {
+    "file": "public/media/images/9288.jpg",
+    "truth": "American Black Bear",
+    "source_id": "9288"
+  },
+  {
+    "file": "public/media/images/9351.jpg",
+    "truth": "American Black Bear",
+    "source_id": "9351"
+  },
+  {
+    "file": "public/media/images/9414.jpg",
+    "truth": "American Black Bear",
+    "source_id": "9414"
+  },
+  {
+    "file": "public/media/images/9477.jpg",
+    "truth": "American Black Bear",
+    "source_id": "9477"
+  },
+  {
+    "file": "public/media/images/9540.jpg",
+    "truth": "American Black Bear",
+    "source_id": "9540"
+  },
+  {
+    "file": "public/media/images/9603.jpg",
+    "truth": "American Black Bear",
+    "source_id": "9603"
+  },
+  {
+    "file": "public/media/images/1673.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "1673"
+  },
+  {
+    "file": "public/media/images/1696.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "1696"
+  },
+  {
+    "file": "public/media/images/1719.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "1719"
+  },
+  {
+    "file": "public/media/images/1742.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "1742"
+  },
+  {
+    "file": "public/media/images/1765.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "1765"
+  },
+  {
+    "file": "public/media/images/1788.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "1788"
+  },
+  {
+    "file": "public/media/images/1811.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "1811"
+  },
+  {
+    "file": "public/media/images/1834.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "1834"
+  },
+  {
+    "file": "public/media/images/1857.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "1857"
+  },
+  {
+    "file": "public/media/images/1880.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "1880"
+  },
+  {
+    "file": "public/media/images/1903.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "1903"
+  },
+  {
+    "file": "public/media/images/1926.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "1926"
+  },
+  {
+    "file": "public/media/images/6055.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "6055"
+  },
+  {
+    "file": "public/media/images/6078.jpg",
+    "truth": "White_Tailed_Deer",
+    "source_id": "6078"
+  },
+  {
+    "file": "public/media/images/3687.jpg",
+    "truth": "Northern Raccoon",
+    "source_id": "3687"
+  },
+  {
+    "file": "public/media/images/3716.jpg",
+    "truth": "Northern Raccoon",
+    "source_id": "3716"
+  },
+  {
+    "file": "public/media/images/3745.jpg",
+    "truth": "Northern Raccoon",
+    "source_id": "3745"
+  },
+  {
+    "file": "public/media/images/3774.jpg",
+    "truth": "Northern Raccoon",
+    "source_id": "3774"
+  },
+  {
+    "file": "public/media/images/3803.jpg",
+    "truth": "Northern Raccoon",
+    "source_id": "3803"
+  },
+  {
+    "file": "public/media/images/3832.jpg",
+    "truth": "Northern Raccoon",
+    "source_id": "3832"
+  },
+  {
+    "file": "public/media/images/3861.jpg",
+    "truth": "Northern Raccoon",
+    "source_id": "3861"
+  },
+  {
+    "file": "public/media/images/3890.jpg",
+    "truth": "Northern Raccoon",
+    "source_id": "3890"
+  },
+  {
+    "file": "public/media/images/3919.jpg",
+    "truth": "Northern Raccoon",
+    "source_id": "3919"
+  },
+  {
+    "file": "public/media/images/3948.jpg",
+    "truth": "Northern Raccoon",
+    "source_id": "3948"
+  },
+  {
+    "file": "public/media/images/3254.jpg",
+    "truth": "Red Fox",
+    "source_id": "3254"
+  },
+  {
+    "file": "public/media/images/3295.jpg",
+    "truth": "Red Fox",
+    "source_id": "3295"
+  },
+  {
+    "file": "public/media/images/3336.jpg",
+    "truth": "Red Fox",
+    "source_id": "3336"
+  },
+  {
+    "file": "public/media/images/3377.jpg",
+    "truth": "Red Fox",
+    "source_id": "3377"
+  },
+  {
+    "file": "public/media/images/3418.jpg",
+    "truth": "Red Fox",
+    "source_id": "3418"
+  },
+  {
+    "file": "public/media/images/3459.jpg",
+    "truth": "Red Fox",
+    "source_id": "3459"
+  },
+  {
+    "file": "public/media/images/3500.jpg",
+    "truth": "Red Fox",
+    "source_id": "3500"
+  },
+  {
+    "file": "public/media/images/3541.jpg",
+    "truth": "Red Fox",
+    "source_id": "3541"
+  },
+  {
+    "file": "public/media/images/3582.jpg",
+    "truth": "Red Fox",
+    "source_id": "3582"
+  },
+  {
+    "file": "public/media/images/3623.jpg",
+    "truth": "Red Fox",
+    "source_id": "3623"
+  },
+  {
+    "file": "public/media/images/7109.jpg",
+    "truth": "Coyote",
+    "source_id": "7109"
+  },
+  {
+    "file": "public/media/images/7142.jpg",
+    "truth": "Coyote",
+    "source_id": "7142"
+  },
+  {
+    "file": "public/media/images/7175.jpg",
+    "truth": "Coyote",
+    "source_id": "7175"
+  },
+  {
+    "file": "public/media/images/7208.jpg",
+    "truth": "Coyote",
+    "source_id": "7208"
+  },
+  {
+    "file": "public/media/images/7244.jpg",
+    "truth": "Coyote",
+    "source_id": "7244"
+  },
+  {
+    "file": "public/media/images/7277.jpg",
+    "truth": "Coyote",
+    "source_id": "7277"
+  },
+  {
+    "file": "public/media/images/7310.jpg",
+    "truth": "Coyote",
+    "source_id": "7310"
+  },
+  {
+    "file": "public/media/images/7343.jpg",
+    "truth": "Coyote",
+    "source_id": "7343"
+  },
+  {
+    "file": "public/media/images/7376.jpg",
+    "truth": "Coyote",
+    "source_id": "7376"
+  },
+  {
+    "file": "public/media/images/7409.jpg",
+    "truth": "Coyote",
+    "source_id": "7409"
+  },
+  {
+    "file": "public/media/images/7232.jpg",
+    "truth": "Bobcat",
+    "source_id": "7232"
+  },
+  {
+    "file": "public/media/images/7476.jpg",
+    "truth": "Bobcat",
+    "source_id": "7476"
+  },
+  {
+    "file": "public/media/images/7508.jpg",
+    "truth": "Bobcat",
+    "source_id": "7508"
+  },
+  {
+    "file": "public/media/images/7540.jpg",
+    "truth": "Bobcat",
+    "source_id": "7540"
+  },
+  {
+    "file": "public/media/images/7572.jpg",
+    "truth": "Bobcat",
+    "source_id": "7572"
+  },
+  {
+    "file": "public/media/images/7604.jpg",
+    "truth": "Bobcat",
+    "source_id": "7604"
+  },
+  {
+    "file": "public/media/images/7636.jpg",
+    "truth": "Bobcat",
+    "source_id": "7636"
+  },
+  {
+    "file": "public/media/images/7668.jpg",
+    "truth": "Bobcat",
+    "source_id": "7668"
+  },
+  {
+    "file": "public/media/images/7700.jpg",
+    "truth": "Bobcat",
+    "source_id": "7700"
+  },
+  {
+    "file": "public/media/images/7732.jpg",
+    "truth": "Bobcat",
+    "source_id": "7732"
+  },
+  {
+    "file": "public/media/images/1394.jpg",
+    "truth": "Wild Turkey",
+    "source_id": "1394"
+  },
+  {
+    "file": "public/media/images/1422.jpg",
+    "truth": "Wild Turkey",
+    "source_id": "1422"
+  },
+  {
+    "file": "public/media/images/1450.jpg",
+    "truth": "Wild Turkey",
+    "source_id": "1450"
+  },
+  {
+    "file": "public/media/images/1478.jpg",
+    "truth": "Wild Turkey",
+    "source_id": "1478"
+  },
+  {
+    "file": "public/media/images/1506.jpg",
+    "truth": "Wild Turkey",
+    "source_id": "1506"
+  },
+  {
+    "file": "public/media/images/1534.jpg",
+    "truth": "Wild Turkey",
+    "source_id": "1534"
+  },
+  {
+    "file": "public/media/images/5907.jpg",
+    "truth": "Wild Turkey",
+    "source_id": "5907"
+  },
+  {
+    "file": "public/media/images/5935.jpg",
+    "truth": "Wild Turkey",
+    "source_id": "5935"
+  },
+  {
+    "file": "public/media/images/5973.jpg",
+    "truth": "Wild Turkey",
+    "source_id": "5973"
+  },
+  {
+    "file": "public/media/images/6001.jpg",
+    "truth": "Wild Turkey",
+    "source_id": "6001"
+  },
+  {
+    "file": "public/media/images/1937.jpg",
+    "truth": "Virginia Opossum",
+    "source_id": "1937"
+  },
+  {
+    "file": "public/media/images/2009.jpg",
+    "truth": "Virginia Opossum",
+    "source_id": "2009"
+  },
+  {
+    "file": "public/media/images/2091.jpg",
+    "truth": "Virginia Opossum",
+    "source_id": "2091"
+  },
+  {
+    "file": "public/media/images/2168.jpg",
+    "truth": "Virginia Opossum",
+    "source_id": "2168"
+  },
+  {
+    "file": "public/media/images/2240.jpg",
+    "truth": "Virginia Opossum",
+    "source_id": "2240"
+  },
+  {
+    "file": "public/media/images/2312.jpg",
+    "truth": "Virginia Opossum",
+    "source_id": "2312"
+  },
+  {
+    "file": "public/media/images/2384.jpg",
+    "truth": "Virginia Opossum",
+    "source_id": "2384"
+  },
+  {
+    "file": "public/media/images/2456.jpg",
+    "truth": "Virginia Opossum",
+    "source_id": "2456"
+  },
+  {
+    "file": "public/media/images/2528.jpg",
+    "truth": "Virginia Opossum",
+    "source_id": "2528"
+  },
+  {
+    "file": "public/media/images/2600.jpg",
+    "truth": "Virginia Opossum",
+    "source_id": "2600"
+  },
+  {
+    "file": "public/media/images/100.jpg",
+    "truth": "Eastern Gray Squirrel",
+    "source_id": "100"
+  },
+  {
+    "file": "public/media/images/136.jpg",
+    "truth": "Eastern Gray Squirrel",
+    "source_id": "136"
+  },
+  {
+    "file": "public/media/images/173.jpg",
+    "truth": "Eastern Gray Squirrel",
+    "source_id": "173"
+  },
+  {
+    "file": "public/media/images/210.jpg",
+    "truth": "Eastern Gray Squirrel",
+    "source_id": "210"
+  },
+  {
+    "file": "public/media/images/247.jpg",
+    "truth": "Eastern Gray Squirrel",
+    "source_id": "247"
+  },
+  {
+    "file": "public/media/images/284.jpg",
+    "truth": "Eastern Gray Squirrel",
+    "source_id": "284"
+  },
+  {
+    "file": "public/media/images/321.jpg",
+    "truth": "Eastern Gray Squirrel",
+    "source_id": "321"
+  },
+  {
+    "file": "public/media/images/6112.jpg",
+    "truth": "Eastern Gray Squirrel",
+    "source_id": "6112"
+  },
+  {
+    "file": "public/media/images/1.jpg",
+    "truth": "Bird",
+    "source_id": "1"
+  },
+  {
+    "file": "public/media/images/1575.jpg",
+    "truth": "Bird",
+    "source_id": "1575"
+  },
+  {
+    "file": "public/media/images/16.jpg",
+    "truth": "Bird",
+    "source_id": "16"
+  },
+  {
+    "file": "public/media/images/1624.jpg",
+    "truth": "Bird",
+    "source_id": "1624"
+  },
+  {
+    "file": "public/media/images/1649.jpg",
+    "truth": "Bird",
+    "source_id": "1649"
+  },
+  {
+    "file": "public/media/images/18.jpg",
+    "truth": "Bird",
+    "source_id": "18"
+  },
+  {
+    "file": "public/media/images/3681.jpg",
+    "truth": "Bird",
+    "source_id": "3681"
+  },
+  {
+    "file": "public/media/images/56.jpg",
+    "truth": "Bird",
+    "source_id": "56"
+  },
+  {
+    "file": "public/media/images/4871.jpg",
+    "truth": "Dog",
+    "source_id": "4871"
+  },
+  {
+    "file": "public/media/images/5228.jpg",
+    "truth": "Dog",
+    "source_id": "5228"
+  },
+  {
+    "file": "public/media/images/5344.jpg",
+    "truth": "Dog",
+    "source_id": "5344"
+  },
+  {
+    "file": "public/media/images/5483.jpg",
+    "truth": "Dog",
+    "source_id": "5483"
+  },
+  {
+    "file": "public/media/images/5602.jpg",
+    "truth": "Dog",
+    "source_id": "5602"
+  },
+  {
+    "file": "public/media/images/5725.jpg",
+    "truth": "Dog",
+    "source_id": "5725"
+  },
+  {
+    "file": "public/media/images/4852.jpg",
+    "truth": "Horse",
+    "source_id": "4852"
+  },
+  {
+    "file": "public/media/images/4972.jpg",
+    "truth": "Horse",
+    "source_id": "4972"
+  },
+  {
+    "file": "public/media/images/4981.jpg",
+    "truth": "Horse",
+    "source_id": "4981"
+  },
+  {
+    "file": "public/media/images/4990.jpg",
+    "truth": "Horse",
+    "source_id": "4990"
+  },
+  {
+    "file": "public/media/images/5006.jpg",
+    "truth": "Horse",
+    "source_id": "5006"
+  },
+  {
+    "file": "public/media/images/5064.jpg",
+    "truth": "Horse",
+    "source_id": "5064"
+  }
+]

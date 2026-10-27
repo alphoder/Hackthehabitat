@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.env*.local
+.vercel
+*.log
+.DS_Store
+.env*
+# data/images and data/audio are intentionally NOT ignored: the media route serves
+# them at runtime, so they must ship with the deployment.

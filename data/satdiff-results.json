@@ -1,0 +1,39 @@
+{
+  "measured_at": "2026-08-15T12:37:05.428Z",
+  "results": [
+    {
+      "park": "pantanal-matogrossense",
+      "label": "Pantanal — pre-fire vs during the 2024 fire season",
+      "lat": -17.75,
+      "lon": -57.4,
+      "spanKm": 80,
+      "before": "2024-04-18",
+      "after": "2024-07-20",
+      "expect": "burn_scar",
+      "verdict": {
+        "change": false,
+        "type": "none",
+        "confidence": 0.9,
+        "description": "The differences between the images are due to seasonal drying and cloud cover, not land use changes."
+      },
+      "hit": false
+    },
+    {
+      "park": "pantanal-matogrossense",
+      "label": "Pantanal — null control, identical dates",
+      "lat": -17.75,
+      "lon": -57.4,
+      "spanKm": 80,
+      "before": "2024-07-20",
+      "after": "2024-07-20",
+      "expect": "none",
+      "verdict": {
+        "change": false,
+        "type": "none",
+        "confidence": 1,
+        "description": "The two images are identical, showing no visible changes in the landscape."
+      },
+      "hit": true
+    }
+  ]
+}

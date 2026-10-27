@@ -1,0 +1,1203 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "measured_at": "2026-08-15T12:20:23.290Z",
+  "total": 132,
+  "catOk": 126,
+  "speciesOk": 100,
+  "speciesTotal": 116,
+  "vehicleOk": 16,
+  "vehicleTotal": 16,
+  "calls": {
+    "gemini-3.1-flash-lite": 11
+  },
+  "scored": [
+    {
+      "file": "data/images/2674.jpg",
+      "truth": "Vehicle",
+      "predicted": "utility vehicle",
+      "category": "vehicle",
+      "confidence": 1,
+      "count": 1,
+      "note": "Orange utility vehicle driving on a dirt path."
+    },
+    {
+      "file": "data/images/2686.jpg",
+      "truth": "Vehicle",
+      "predicted": "utility vehicle",
+      "category": "vehicle",
+      "confidence": 1,
+      "count": 1,
+      "note": "Front view of an orange utility vehicle on a path."
+    },
+    {
+      "file": "data/images/2725.jpg",
+      "truth": "Vehicle",
+      "predicted": "excavator",
+      "category": "vehicle",
+      "confidence": 1,
+      "count": 1,
+      "note": "Small green excavator parked in the woods."
+    },
+    {
+      "file": "data/images/2760.jpg",
+      "truth": "Vehicle",
+      "predicted": "excavator",
+      "category": "vehicle",
+      "confidence": 1,
+      "count": 1,
+      "note": "Small green excavator working on a dirt path."
+    },
+    {
+      "file": "data/images/2768.jpg",
+      "truth": "Vehicle",
+      "predicted": "utility vehicle",
+      "category": "vehicle",
+      "confidence": 1,
+      "count": 1,
+      "note": "Rear view of an orange utility vehicle."
+    },
+    {
+      "file": "data/images/2786.jpg",
+      "truth": "Vehicle",
+      "predicted": "utility vehicle",
+      "category": "vehicle",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Motion blurred orange utility vehicle."
+    },
+    {
+      "file": "data/images/2795.jpg",
+      "truth": "Vehicle",
+      "predicted": "utility vehicle",
+      "category": "vehicle",
+      "confidence": 1,
+      "count": 1,
+      "note": "Orange utility vehicle on a forest path."
+    },
+    {
+      "file": "data/images/2804.jpg",
+      "truth": "Vehicle",
+      "predicted": "utility vehicle",
+      "category": "vehicle",
+      "confidence": 0.8,
+      "count": 1,
+      "note": "Overexposed image of a utility vehicle."
+    },
+    {
+      "file": "data/images/2817.jpg",
+      "truth": "Vehicle",
+      "predicted": "utility vehicle",
+      "category": "vehicle",
+      "confidence": 1,
+      "count": 1,
+      "note": "Rear view of an orange utility vehicle."
+    },
+    {
+      "file": "data/images/2832.jpg",
+      "truth": "Vehicle",
+      "predicted": "utility vehicle",
+      "category": "vehicle",
+      "confidence": 1,
+      "count": 1,
+      "note": "Orange utility vehicle on a forest path."
+    },
+    {
+      "file": "data/images/2843.jpg",
+      "truth": "Vehicle",
+      "predicted": "utility vehicle",
+      "category": "vehicle",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Overexposed front view of a utility vehicle."
+    },
+    {
+      "file": "data/images/2873.jpg",
+      "truth": "Vehicle",
+      "predicted": "mower",
+      "category": "vehicle",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Part of a green mower visible in tall grass."
+    },
+    {
+      "file": "data/images/2894.jpg",
+      "truth": "Vehicle",
+      "predicted": "tractor",
+      "category": "vehicle",
+      "confidence": 1,
+      "count": 1,
+      "note": "Tractor bucket visible on the right side."
+    },
+    {
+      "file": "data/images/2916.jpg",
+      "truth": "Vehicle",
+      "predicted": "tractor",
+      "category": "vehicle",
+      "confidence": 1,
+      "count": 1,
+      "note": "Motion blurred tractor wheel passing by."
+    },
+    {
+      "file": "data/images/2924.jpg",
+      "truth": "Vehicle",
+      "predicted": "utility vehicle",
+      "category": "vehicle",
+      "confidence": 1,
+      "count": 1,
+      "note": "Orange utility vehicle driving through fog."
+    },
+    {
+      "file": "data/images/2937.jpg",
+      "truth": "Vehicle",
+      "predicted": "utility vehicle",
+      "category": "vehicle",
+      "confidence": 1,
+      "count": 1,
+      "note": "Utility vehicle on a forest trail."
+    },
+    {
+      "file": "data/images/8784.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Partial view of a black bear on the left."
+    },
+    {
+      "file": "data/images/8847.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Black bear walking past a fallen log."
+    },
+    {
+      "file": "data/images/8910.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Black bear partially visible in the foreground."
+    },
+    {
+      "file": "data/images/8973.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Black bear walking in the woods at night."
+    },
+    {
+      "file": "data/images/9036.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Close-up of a black bear's fur."
+    },
+    {
+      "file": "data/images/9099.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Black bear walking through dense vegetation."
+    },
+    {
+      "file": "data/images/9162.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Black bear close to the camera lens."
+    },
+    {
+      "file": "data/images/9225.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Black bear fur filling the right side of the frame."
+    },
+    {
+      "file": "data/images/9288.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 1,
+      "count": 2,
+      "note": "Two black bears in the woods."
+    },
+    {
+      "file": "data/images/9351.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A black bear walking through the forest."
+    },
+    {
+      "file": "data/images/9414.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A black bear walking at night."
+    },
+    {
+      "file": "data/images/9477.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A black bear walking through tall grass."
+    },
+    {
+      "file": "data/images/9540.jpg",
+      "truth": "American Black Bear",
+      "predicted": "black bear",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A black bear walking away from the camera."
+    },
+    {
+      "file": "data/images/9603.jpg",
+      "truth": "American Black Bear",
+      "predicted": "blank",
+      "category": "blank",
+      "confidence": 0.9,
+      "count": 0,
+      "note": "Motion blur in the forest."
+    },
+    {
+      "file": "data/images/1673.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "white-tailed deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A buck with antlers at night."
+    },
+    {
+      "file": "data/images/1696.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "white-tailed deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A deer with glowing eyes at night."
+    },
+    {
+      "file": "data/images/1719.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "white-tailed deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A deer foraging at night."
+    },
+    {
+      "file": "data/images/1742.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "white-tailed deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A deer walking through the woods at night."
+    },
+    {
+      "file": "data/images/1765.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "white-tailed deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A deer walking away at night."
+    },
+    {
+      "file": "data/images/1788.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "white-tailed deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A deer foraging at night."
+    },
+    {
+      "file": "data/images/1811.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A deer foraging in the woods at night."
+    },
+    {
+      "file": "data/images/1834.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A deer standing in the forest."
+    },
+    {
+      "file": "data/images/1857.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A deer partially visible on the right side."
+    },
+    {
+      "file": "data/images/1880.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A deer walking away into the forest."
+    },
+    {
+      "file": "data/images/1903.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Rear view of a deer walking past the camera."
+    },
+    {
+      "file": "data/images/1926.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "deer",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A deer moving through the dark forest."
+    },
+    {
+      "file": "data/images/6055.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A deer foraging near a wooden structure."
+    },
+    {
+      "file": "data/images/6078.jpg",
+      "truth": "White_Tailed_Deer",
+      "predicted": "deer",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A deer foraging near a wooden structure."
+    },
+    {
+      "file": "data/images/3687.jpg",
+      "truth": "Northern Raccoon",
+      "predicted": "blank",
+      "category": "blank",
+      "confidence": 0.9,
+      "count": 0,
+      "note": "Empty forest scene at night."
+    },
+    {
+      "file": "data/images/3716.jpg",
+      "truth": "Northern Raccoon",
+      "predicted": "raccoon",
+      "category": "animal",
+      "confidence": 0.85,
+      "count": 1,
+      "note": "A raccoon partially visible at the bottom."
+    },
+    {
+      "file": "data/images/3745.jpg",
+      "truth": "Northern Raccoon",
+      "predicted": "raccoon",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A raccoon walking through the woods."
+    },
+    {
+      "file": "data/images/3774.jpg",
+      "truth": "Northern Raccoon",
+      "predicted": "raccoon",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A raccoon foraging on the forest floor."
+    },
+    {
+      "file": "data/images/3803.jpg",
+      "truth": "Northern Raccoon",
+      "predicted": "raccoon",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Raccoon back visible in bottom center."
+    },
+    {
+      "file": "data/images/3832.jpg",
+      "truth": "Northern Raccoon",
+      "predicted": "blank",
+      "category": "blank",
+      "confidence": 1,
+      "count": 0,
+      "note": "Empty forest scene at night."
+    },
+    {
+      "file": "data/images/3861.jpg",
+      "truth": "Northern Raccoon",
+      "predicted": "raccoon",
+      "category": "animal",
+      "confidence": 0.85,
+      "count": 1,
+      "note": "Raccoon partially visible behind tree."
+    },
+    {
+      "file": "data/images/3890.jpg",
+      "truth": "Northern Raccoon",
+      "predicted": "raccoon",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Raccoon walking in the foreground."
+    },
+    {
+      "file": "data/images/3919.jpg",
+      "truth": "Northern Raccoon",
+      "predicted": "raccoon",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Raccoon back visible in bottom center."
+    },
+    {
+      "file": "data/images/3948.jpg",
+      "truth": "Northern Raccoon",
+      "predicted": "raccoon",
+      "category": "animal",
+      "confidence": 0.8,
+      "count": 1,
+      "note": "Raccoon ear visible in bottom left corner."
+    },
+    {
+      "file": "data/images/3254.jpg",
+      "truth": "Red Fox",
+      "predicted": "fox",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Fox walking in the forest during daytime."
+    },
+    {
+      "file": "data/images/3295.jpg",
+      "truth": "Red Fox",
+      "predicted": "fox",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Fox walking through the forest at night."
+    },
+    {
+      "file": "data/images/3336.jpg",
+      "truth": "Red Fox",
+      "predicted": "fox",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Fox looking at camera with glowing eyes."
+    },
+    {
+      "file": "data/images/3377.jpg",
+      "truth": "Red Fox",
+      "predicted": "fox",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Fox running across the frame at night."
+    },
+    {
+      "file": "data/images/3418.jpg",
+      "truth": "Red Fox",
+      "predicted": "fox",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Fox running through the forest during daytime."
+    },
+    {
+      "file": "data/images/3459.jpg",
+      "truth": "Red Fox",
+      "predicted": "fox",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Fox walking away in the forest at night."
+    },
+    {
+      "file": "data/images/3500.jpg",
+      "truth": "Red Fox",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.8,
+      "count": 1,
+      "note": "Coyote walking in the distance."
+    },
+    {
+      "file": "data/images/3541.jpg",
+      "truth": "Red Fox",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.7,
+      "count": 1,
+      "note": "Motion blurred coyote in the foreground."
+    },
+    {
+      "file": "data/images/3582.jpg",
+      "truth": "Red Fox",
+      "predicted": "fox",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Red fox walking across the frame."
+    },
+    {
+      "file": "data/images/3623.jpg",
+      "truth": "Red Fox",
+      "predicted": "fox",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Red fox foraging in the grass."
+    },
+    {
+      "file": "data/images/7109.jpg",
+      "truth": "Coyote",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.8,
+      "count": 1,
+      "note": "Coyote moving through the grass."
+    },
+    {
+      "file": "data/images/7142.jpg",
+      "truth": "Coyote",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 2,
+      "note": "Two coyotes, one in foreground, one in background."
+    },
+    {
+      "file": "data/images/7175.jpg",
+      "truth": "Coyote",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.8,
+      "count": 1,
+      "note": "Coyote walking past a pine tree."
+    },
+    {
+      "file": "data/images/7208.jpg",
+      "truth": "Coyote",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.7,
+      "count": 1,
+      "note": "Coyote partially visible on the right."
+    },
+    {
+      "file": "data/images/7244.jpg",
+      "truth": "Coyote",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.8,
+      "count": 1,
+      "note": "Coyote walking through the field."
+    },
+    {
+      "file": "data/images/7277.jpg",
+      "truth": "Coyote",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Coyote moving quickly across the frame."
+    },
+    {
+      "file": "data/images/7310.jpg",
+      "truth": "Coyote",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.8,
+      "count": 1,
+      "note": "Motion blurred coyote moving through the frame."
+    },
+    {
+      "file": "data/images/7343.jpg",
+      "truth": "Coyote",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Coyote walking through the grass at night."
+    },
+    {
+      "file": "data/images/7376.jpg",
+      "truth": "Coyote",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A coyote standing in a grassy clearing."
+    },
+    {
+      "file": "data/images/7409.jpg",
+      "truth": "Coyote",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "A coyote walking through the woods at night."
+    },
+    {
+      "file": "data/images/7232.jpg",
+      "truth": "Bobcat",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.85,
+      "count": 1,
+      "note": "A coyote partially visible near some bushes at night."
+    },
+    {
+      "file": "data/images/7476.jpg",
+      "truth": "Bobcat",
+      "predicted": "bobcat",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "A bobcat walking through the forest."
+    },
+    {
+      "file": "data/images/7508.jpg",
+      "truth": "Bobcat",
+      "predicted": "bobcat",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A bobcat walking across the forest floor."
+    },
+    {
+      "file": "data/images/7540.jpg",
+      "truth": "Bobcat",
+      "predicted": "bobcat",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A bobcat walking through the woods."
+    },
+    {
+      "file": "data/images/7572.jpg",
+      "truth": "Bobcat",
+      "predicted": "bobcat",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A bobcat walking through dense green vegetation."
+    },
+    {
+      "file": "data/images/7604.jpg",
+      "truth": "Bobcat",
+      "predicted": "coyote",
+      "category": "animal",
+      "confidence": 0.8,
+      "count": 1,
+      "note": "A coyote walking past the camera at night."
+    },
+    {
+      "file": "data/images/7636.jpg",
+      "truth": "Bobcat",
+      "predicted": "bobcat",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "A bobcat walking away from the camera at night."
+    },
+    {
+      "file": "data/images/7668.jpg",
+      "truth": "Bobcat",
+      "predicted": "bobcat",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A bobcat walking through the forest."
+    },
+    {
+      "file": "data/images/7700.jpg",
+      "truth": "Bobcat",
+      "predicted": "bobcat",
+      "category": "animal",
+      "confidence": 0.85,
+      "count": 1,
+      "note": "A blurry bobcat moving through the forest."
+    },
+    {
+      "file": "data/images/7732.jpg",
+      "truth": "Bobcat",
+      "predicted": "(none)",
+      "category": "(none)",
+      "confidence": 0,
+      "count": 0,
+      "note": ""
+    },
+    {
+      "file": "data/images/1394.jpg",
+      "truth": "Wild Turkey",
+      "predicted": "wild turkey",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A wild turkey walking past a large tree."
+    },
+    {
+      "file": "data/images/1422.jpg",
+      "truth": "Wild Turkey",
+      "predicted": "wild turkey",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Close-up of a wild turkey in the woods."
+    },
+    {
+      "file": "data/images/1450.jpg",
+      "truth": "Wild Turkey",
+      "predicted": "wild turkey",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A wild turkey walking through the forest."
+    },
+    {
+      "file": "data/images/1478.jpg",
+      "truth": "Wild Turkey",
+      "predicted": "wild turkey",
+      "category": "animal",
+      "confidence": 1,
+      "count": 2,
+      "note": "Two wild turkeys foraging in the forest."
+    },
+    {
+      "file": "data/images/1506.jpg",
+      "truth": "Wild Turkey",
+      "predicted": "wild turkey",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "A wild turkey walking on the forest floor."
+    },
+    {
+      "file": "data/images/1534.jpg",
+      "truth": "Wild Turkey",
+      "predicted": "wild turkey",
+      "category": "animal",
+      "confidence": 1,
+      "count": 3,
+      "note": "Three wild turkeys in the forest."
+    },
+    {
+      "file": "data/images/5907.jpg",
+      "truth": "Wild Turkey",
+      "predicted": "guinea fowl",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A guinea fowl near a wood pile."
+    },
+    {
+      "file": "data/images/5935.jpg",
+      "truth": "Wild Turkey",
+      "predicted": "guinea fowl",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A guinea fowl standing near a wood pile."
+    },
+    {
+      "file": "data/images/5973.jpg",
+      "truth": "Wild Turkey",
+      "predicted": "guinea fowl",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 2,
+      "note": "Two guinea fowl near a wood pile."
+    },
+    {
+      "file": "data/images/6001.jpg",
+      "truth": "Wild Turkey",
+      "predicted": "guinea fowl",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 3,
+      "note": "Three guinea fowl foraging near a wood pile."
+    },
+    {
+      "file": "data/images/1937.jpg",
+      "truth": "Virginia Opossum",
+      "predicted": "opossum",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "An opossum walking at night."
+    },
+    {
+      "file": "data/images/2009.jpg",
+      "truth": "Virginia Opossum",
+      "predicted": "opossum",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "An opossum walking at night."
+    },
+    {
+      "file": "data/images/2091.jpg",
+      "truth": "Virginia Opossum",
+      "predicted": "opossum",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Opossum walking across the forest floor at night."
+    },
+    {
+      "file": "data/images/2168.jpg",
+      "truth": "Virginia Opossum",
+      "predicted": "opossum",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Opossum foraging on the ground."
+    },
+    {
+      "file": "data/images/2240.jpg",
+      "truth": "Virginia Opossum",
+      "predicted": "opossum",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Opossum facing away from the camera."
+    },
+    {
+      "file": "data/images/2312.jpg",
+      "truth": "Virginia Opossum",
+      "predicted": "opossum",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Opossum foraging on the ground."
+    },
+    {
+      "file": "data/images/2384.jpg",
+      "truth": "Virginia Opossum",
+      "predicted": "opossum",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Opossum looking towards the camera."
+    },
+    {
+      "file": "data/images/2456.jpg",
+      "truth": "Virginia Opossum",
+      "predicted": "opossum",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Opossum with glowing eyes in the dark."
+    },
+    {
+      "file": "data/images/2528.jpg",
+      "truth": "Virginia Opossum",
+      "predicted": "opossum",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Opossum partially visible in the lower right corner."
+    },
+    {
+      "file": "data/images/2600.jpg",
+      "truth": "Virginia Opossum",
+      "predicted": "opossum",
+      "category": "animal",
+      "confidence": 1,
+      "count": 1,
+      "note": "Opossum near a pile of debris."
+    },
+    {
+      "file": "data/images/100.jpg",
+      "truth": "Eastern Gray Squirrel",
+      "predicted": "squirrel",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Squirrel in the lower left corner."
+    },
+    {
+      "file": "data/images/136.jpg",
+      "truth": "Eastern Gray Squirrel",
+      "predicted": "squirrel",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Squirrel foraging on the forest floor."
+    },
+    {
+      "file": "data/images/173.jpg",
+      "truth": "Eastern Gray Squirrel",
+      "predicted": "squirrel",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Squirrel climbing or near a tree trunk."
+    },
+    {
+      "file": "data/images/210.jpg",
+      "truth": "Eastern Gray Squirrel",
+      "predicted": "squirrel",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Squirrel in the lower left corner."
+    },
+    {
+      "file": "data/images/247.jpg",
+      "truth": "Eastern Gray Squirrel",
+      "predicted": "squirrel",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A squirrel is visible in the center background."
+    },
+    {
+      "file": "data/images/284.jpg",
+      "truth": "Eastern Gray Squirrel",
+      "predicted": "squirrel",
+      "category": "animal",
+      "confidence": 0.98,
+      "count": 1,
+      "note": "A squirrel is foraging on the ground."
+    },
+    {
+      "file": "data/images/321.jpg",
+      "truth": "Eastern Gray Squirrel",
+      "predicted": "squirrel",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A squirrel is climbing a tree in the bottom left."
+    },
+    {
+      "file": "data/images/6112.jpg",
+      "truth": "Eastern Gray Squirrel",
+      "predicted": "squirrel",
+      "category": "animal",
+      "confidence": 0.99,
+      "count": 1,
+      "note": "A squirrel is sitting on a wooden pallet."
+    },
+    {
+      "file": "data/images/1.jpg",
+      "truth": "Bird",
+      "predicted": "blank",
+      "category": "blank",
+      "confidence": 1,
+      "count": 0,
+      "note": "Vegetation in a garden area."
+    },
+    {
+      "file": "data/images/1575.jpg",
+      "truth": "Bird",
+      "predicted": "bird",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "A small bird is walking on the ground."
+    },
+    {
+      "file": "data/images/16.jpg",
+      "truth": "Bird",
+      "predicted": "bird",
+      "category": "animal",
+      "confidence": 0.85,
+      "count": 1,
+      "note": "A bird is visible in the bottom left corner."
+    },
+    {
+      "file": "data/images/1624.jpg",
+      "truth": "Bird",
+      "predicted": "bird",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A bird is standing on the ground."
+    },
+    {
+      "file": "data/images/1649.jpg",
+      "truth": "Bird",
+      "predicted": "bird",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "A bird is standing on the ground."
+    },
+    {
+      "file": "data/images/18.jpg",
+      "truth": "Bird",
+      "predicted": "bird",
+      "category": "animal",
+      "confidence": 0.85,
+      "count": 1,
+      "note": "A bird is visible in the bottom left corner."
+    },
+    {
+      "file": "data/images/3681.jpg",
+      "truth": "Bird",
+      "predicted": "robin",
+      "category": "animal",
+      "confidence": 0.98,
+      "count": 2,
+      "note": "Two robins are foraging in the grass."
+    },
+    {
+      "file": "data/images/56.jpg",
+      "truth": "Bird",
+      "predicted": "heron",
+      "category": "animal",
+      "confidence": 0.99,
+      "count": 1,
+      "note": "A great blue heron stands by the stream."
+    },
+    {
+      "file": "data/images/4871.jpg",
+      "truth": "Dog",
+      "predicted": "dog",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Dog walking away on a forest trail."
+    },
+    {
+      "file": "data/images/5228.jpg",
+      "truth": "Dog",
+      "predicted": "dog",
+      "category": "animal",
+      "confidence": 0.98,
+      "count": 1,
+      "note": "Close-up of a dog wearing a collar."
+    },
+    {
+      "file": "data/images/5344.jpg",
+      "truth": "Dog",
+      "predicted": "dog",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Shaggy dog walking through vegetation."
+    },
+    {
+      "file": "data/images/5483.jpg",
+      "truth": "Dog",
+      "predicted": "dog",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Small light-colored dog walking in a garden."
+    },
+    {
+      "file": "data/images/5602.jpg",
+      "truth": "Dog",
+      "predicted": "dog",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Rear view of a black dog in a garden."
+    },
+    {
+      "file": "data/images/5725.jpg",
+      "truth": "Dog",
+      "predicted": "blank",
+      "category": "blank",
+      "confidence": 1,
+      "count": 0,
+      "note": "Nighttime frame, no animals visible."
+    },
+    {
+      "file": "data/images/4852.jpg",
+      "truth": "Horse",
+      "predicted": "horse",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Horse walking on a forest trail."
+    },
+    {
+      "file": "data/images/4972.jpg",
+      "truth": "Horse",
+      "predicted": "horse",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Horse at night, side view."
+    },
+    {
+      "file": "data/images/4981.jpg",
+      "truth": "Horse",
+      "predicted": "horse",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Horse at night, rear view."
+    },
+    {
+      "file": "data/images/4990.jpg",
+      "truth": "Horse",
+      "predicted": "horse",
+      "category": "animal",
+      "confidence": 0.95,
+      "count": 1,
+      "note": "Horse at night, grazing."
+    },
+    {
+      "file": "data/images/5006.jpg",
+      "truth": "Horse",
+      "predicted": "horse",
+      "category": "animal",
+      "confidence": 0.98,
+      "count": 1,
+      "note": "Saddled horse walking on a trail."
+    },
+    {
+      "file": "data/images/5064.jpg",
+      "truth": "Horse",
+      "predicted": "horse",
+      "category": "animal",
+      "confidence": 0.9,
+      "count": 1,
+      "note": "Partial view of a horse walking on a trail."
+    }
+  ]
+}
